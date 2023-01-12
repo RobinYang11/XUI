@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/RobinYang11/XUI/issues"
   },
-  "homepage": "https://github.com/RobinYang11/XUI#readme"
+  "homepage": "https://github.com/RobinYang11/XUI#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
