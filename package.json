@@ -1,0 +1,28 @@
+{
+  "name": "xui",
+  "version": "1.0.0",
+  "description": "An extendable UI for React ",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "example": "example"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinYang11/XUI.git"
+  },
+  "keywords": [
+    "React",
+    "XUI",
+    "reactUI"
+  ],
+  "author": "RobinYang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobinYang11/XUI/issues"
+  },
+  "homepage": "https://github.com/RobinYang11/XUI#readme"
+}
